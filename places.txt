@@ -1,0 +1,2 @@
+Product Code    Description     Price
+ProductCode1	Description1	34789375

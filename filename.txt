@@ -1,0 +1,3 @@
+Product Code    Description     Price
+ProductCode1	Description1	34789375
+ProductCode2	fgnjefgnbviref	5437895734956
